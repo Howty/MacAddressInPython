@@ -1,5 +1,4 @@
 from functions import get_basenumber_from_int, get_int_from_basenumber, split, cut, onlycontains, reverse
-from dataBaseHandlerClass import DataBaseHandler
 
 #change path name
 #_handler = DataBaseHandler("macAddressDatas/", [], 0)
